@@ -1,0 +1,16 @@
+{
+  "name": "desplejando-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wilson Del Carpio Valero <164948422+WisomdCV@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.10"
+  }
+}
